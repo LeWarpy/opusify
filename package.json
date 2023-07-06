@@ -1,0 +1,28 @@
+{
+  "name": "opusify",
+  "version": "1.0.0",
+  "description": "Transcode radio streams to Opus-encoded audio streams",
+  "main": "app.js",
+  "devDependencies": {
+    "coffee-script": "^1.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeWarpy/opusify.git"
+  },
+  "keywords": [
+    "opus"
+  ],
+  "author": "LeWarpy <coucou@lewarpy.fr>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/LeWarpy/opusify/issues"
+  },
+  "homepage": "https://github.com/LeWarpy/opusify#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
